@@ -5,7 +5,8 @@ Reconocimiento
 
 Escaneo de puertos
 
-```nmap -p- --open -sS -sC -sV --min-rate 2500 -n -vvv -Pn 172.17.0.2 
+```
+nmap -p- --open -sS -sC -sV --min-rate 2500 -n -vvv -Pn 172.17.0.2 
 Host discovery disabled (-Pn). All addresses will be marked 'up' and scan times may be slower.
 Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-10-30 18:13 EDT
 NSE: Loaded 156 scripts for scanning.
