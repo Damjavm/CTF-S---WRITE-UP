@@ -1,6 +1,6 @@
 **Maquina: Casa Paco**
 
-**Web: thehackerlabs.com**
+**Web: thehackerslabs.com**
 
 ![image](https://github.com/user-attachments/assets/22a0144e-407d-44f5-823e-af646661b9a2)
 
